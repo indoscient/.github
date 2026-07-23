@@ -79,6 +79,15 @@ Empower organisations to collaborate on data-driven insights while guaranteeing 
 
 ---
 
+### 📦 Core Projects
+
+| Project | Description | Status |
+| :--- | :--- | :--- |
+| [indoscient-repo](https://github.com/sumanjangili/indoscient-repo) | Main website & platform codebase | ✅ Active |
+| [uptime-tracking](https://github.com/sumanjangili/indoscient-repo/tree/main/uptime-tracking) | GitHub Actions uptime monitoring | ✅ Active |
+
+---
+
 #### Quick Summary
 
 > Indoscient lets you share the value of data without ever sharing the data itself. By leveraging modern cryptography, federated learning, and blockchain escrow, we provide a trustworthy, compliant, and fast path to collaborative insight generation.
