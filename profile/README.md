@@ -13,7 +13,13 @@ INDOSCIENT is a privacy engineering firm specialising in **Digital Personal Data
 
 ### 🌍 Our Mission
 
-Empower organisations to collaborate on data-driven insights while guaranteeing strong privacy, regulatory compliance, and minimal data exposure. We envision a global ecosystem where valuable datasets can be safely shared, analyzed, and monetized—fueling breakthroughs in health, finance, security, and beyond.
+To implement privacy-by-design engineering that enables organizations to meet DPDP Act, GDPR, and global compliance requirements without sacrificing product velocity. We build functional solutions — consent flows, encryption architectures, audit trails — directly into your codebase.
+
+---
+
+### Vision
+
+A global ecosystem where data-driven collaboration happens securely — organizations share insights while keeping raw datasets in owner-controlled environments through minimal data exposure architecture, federated learning, and blockchain-backed trust.
 
 ---
 
