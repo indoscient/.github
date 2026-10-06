@@ -1,7 +1,7 @@
 [![Sponsor](https://img.shields.io/badge/Sponsor-💖-orange)](https://github.com/sponsors/sumanjangili)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/license/MIT)
 
-## 🛡️ INDOSCIENT – Privacy Engineering & DPDP Act Compliance
+## 🛡️ INDOSCIENT – Privacy Engineering & Compliance Solutions
 
 **Tagline:** Share the Value, Not the Data
 
