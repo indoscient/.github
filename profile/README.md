@@ -40,8 +40,8 @@ A global ecosystem where data-driven collaboration happens securely — organiza
 
 | Product | URL | Description |
 | :--- | :--- | :--- |
-| **Compliance Dashboard** | https://www.compliance.indoscient.in | DPDP Act compliance automation tools |
-| **App Portal** | https://www.app.indoscient.in | Secure web products and application delivery |
+| **Compliance Dashboard** | https://compliance.indoscient.in | DPDP Act compliance automation tools |
+| **App Portal** | https://app.indoscient.in | Secure web products and application delivery |
 
 ---
 
@@ -81,8 +81,8 @@ A global ecosystem where data-driven collaboration happens securely — organiza
 ### 🤝 Our Ecosystem
 
 - **INDOSCIENT** — Compliance Consultancy (https://www.indoscient.in)
-- **Compliance Dashboard** — DPDP Act Tools (https://www.compliance.indoscient.in)
-- **App Portal** — Secure Applications (https://www.app.indoscient.in)
+- **Compliance Dashboard** — DPDP Act Tools (https://compliance.indoscient.in)
+- **App Portal** — Secure Applications (https://app.indoscient.in)
 
 ---
 
